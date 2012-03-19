@@ -13,6 +13,11 @@ the module seems to do it's job pretty well, considering that the API more than 
 So if the code make your eyes bleed, rock on and make a pull request.
 
 
+Installation
+-------
+
+	npm install purrency
+
 Example usage
 -------
 
