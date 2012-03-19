@@ -13,9 +13,10 @@ the module seems to do it's job pretty well, considering that the API more than 
 So if the code make your eyes bleed, rock on and make a pull request.
 
 
-Example usage: 
+Example usage
+-------
 
-	var purrency = require('./purrency');
+	var purrency = require('purrency');
 	
 	// Change default base currency from EUR (default) to USD
 	purrency.settings.default_currency = 'USD';
