@@ -3,7 +3,7 @@
     "description": "polls currency ECB's XML API and parses it to use with money.js.",
     "keywords": ["currency", "ecb"],
     "url": "http://www.theindustry.se",
-    "author": ["Joakim Brantingson <joakim@theindustry.se>","Josef Fröhle <josef.froehle@gmail.com>"],
+    "author": ["Joakim Brantingson <joakim@theindustry.se>","Josef Froehle <josef.froehle@gmail.com>"],
     
     "dependencies": {
         "requestah": "1.0.0",
